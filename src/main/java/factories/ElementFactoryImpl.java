@@ -8,6 +8,6 @@ import java.util.List;
 public class ElementFactoryImpl implements ElementFactory {
     @Override
     public Element createElement(String line, String separator) {
-        return null;
+        // create one element by line
     }
 }
